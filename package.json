@@ -1,0 +1,23 @@
+{
+  "name": "add-timestamp-to-events",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yanivbh1/add-timestamp-to-events.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yanivbh1/add-timestamp-to-events/issues"
+  },
+  "homepage": "https://github.com/yanivbh1/add-timestamp-to-events#readme",
+  "dependencies": {
+    "memphis-functions": "^1.0.2"
+  }
+}
