@@ -6,3 +6,4 @@ tags:
   - tag: unix time
   - tag: date time
 runtime: nodejs18.x
+handler: index.handler
