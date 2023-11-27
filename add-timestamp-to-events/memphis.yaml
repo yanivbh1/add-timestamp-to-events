@@ -5,4 +5,4 @@ tags:
   - tag: go
   - tag: unix time
   - tag: date time
-runtime: nodejs18.1
+runtime: nodejs18.x
